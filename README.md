@@ -1,2 +1,2 @@
 # Rock-Paper-Scissor-Game
-Funn time !! A 2-player Game.. 
+Fun time !! A 2-player Game.. 
